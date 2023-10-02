@@ -1,0 +1,6 @@
+.cucumber\cucumber.stepDefinitions.tmp
+Pagepackage\Pagelogin.class
+.cucumber\cucumber.glue.tmp
+Basepackage\BaseClass.class
+utilities\ReportingManager.class
+Stepdefinationpackage\LoginStepdef.class
